@@ -1,10 +1,11 @@
-> 1 / 1
-> 
+
+
+
 > Burp suite tutorial
 
-ChatGPTChatGPT
 
-1 / 1
+![image](https://user-images.githubusercontent.com/120317751/235739628-20ce678b-f5df-42b6-a35a-936ecd9a24cd.png)
+
 
 Burp Suite is a popular web application testing tool that is widely used by security professionals to identify and exploit vulnerabilities in web applications. It has a wide range of features that allow users to test web applications for security issues and automate the testing process. In this tutorial, I will walk you through the basic features of Burp Suite.
 
